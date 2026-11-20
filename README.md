@@ -32,6 +32,13 @@ Have your agent bundle the sessions that wrote the entry and submit the reposito
 
 Once results are posted, the bounty page or entry status shows the outcome. If your entry earns a reward, follow make.fun's claim instructions for that bounty.
 
+### Before you click submit
+
+- Open the commit on GitHub and confirm that the files shown there match the bounty brief.
+- If the instructions ask for a repo screenshot, capture the rendered GitHub page after publishing the guide, then commit the image and use the new commit SHA.
+- Keep the transcript archive outside the public repository. Review the kit’s redaction output, then attach the archive through the submission flow.
+- Save the submission ID so you can find the validation results and any required fixes.
+
 ## How this guide was entered
 
 [Bring the humans again](https://make.fun/bounty/bring-the-humans-02) asks for a public GitHub README, a screenshot of that README on GitHub, and the agent sessions that wrote it. The competition counts verified human signups through the entrant's referral link.
